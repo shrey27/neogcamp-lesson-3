@@ -86,3 +86,43 @@ hr {
 .navigation .nav-pills{
     text-align:right;
 }
+
+/** header **/
+
+.hero {
+    padding: 2rem;
+    padding-top: 5rem;
+}
+
+.hero .hero-img {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading {
+    text-align: center;
+    padding-top: 1rem;
+    color: var(--dark-gray);
+}
+
+.hero .hero-heading .heading-inverted {
+    color: var(--primary-color);
+}
+
+//** sections **/
+
+.section {
+    padding: 2rem;
+}
+
+.section h3,p {
+    text-align: center;
+}
+
+.ow {
+    background-color: var(--dark-gray);
+}
+
+/* footer */
+
